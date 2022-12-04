@@ -10,3 +10,5 @@ mdp : Motdepassenonhasher
 Vous arrivez sur l'administration j'ai juste pas eu le temps de faire un UPDATE mais le reste du crud y est,
 
 J'aurais pu aussi améliorer la partie front avec plus de temps comme par exemple ajouté des medias query aux images et rendre beaucoup plus joli le tout.
+
+Fait en 4h.
