@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 5vh;
+    background-color: beige;
+}
+
+a.header {
+    text-decoration: none;
+    color: black;
+}

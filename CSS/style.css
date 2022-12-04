@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 10vh;
+    background-color: antiquewhite;
+}
+
+#img-header {
+    height: 8vh;
+}
+
+.ul-header {
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.text-header {
+    list-style: none;
+}
+
+a.header {
+    text-decoration: none;
+    color: black;
+
+}
+
+.paysage {
+    height: 150px;
+    width: 300px;
+}
